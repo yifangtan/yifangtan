@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yifangtan)](https://github.com/anuraghazra/github-readme-stats&hide=stars,prs,issues,contribs)
+### Hi  👋
+<img src="https://github-readme-stats.vercel.app/api?username=yifangtan&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+- I’m currently learning...all 
+- learning.....
+
 # 💬 Ask me about ...
 # Follow me
 [![个人博客](https://img.shields.io/badge/-个人博客（一方潭）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.yifangtan.com/)
