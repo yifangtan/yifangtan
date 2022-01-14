@@ -2,11 +2,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yifangtan)](https://github.com/anuraghazra/github-readme-stats&hide=stars,prs,issues,contribs)
 # 💬 Ask me about ...
 # Follow me
-[![个人博客](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.yifangtan.com/)
+[![个人博客](https://img.shields.io/badge/-个人博客（一方潭）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.yifangtan.com/)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/yifangtan/)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/LJLPILIPALA?spm=1001.2101.3001.5343)
-# Github infos
-<img src="https://github-profile-trophy.vercel.app/?username=yifangtan&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 <!--
 **yifangtan/yifangtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
