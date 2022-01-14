@@ -1,7 +1,7 @@
 ### Hi  👋
 <img src="https://github-readme-stats.vercel.app/api?username=yifangtan&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
-- I’m currently learning...all 
-- learning.....
+- I’m currently learning...all.
+- learning ...
 
 # 💬 Ask me about ...
 # Follow me
